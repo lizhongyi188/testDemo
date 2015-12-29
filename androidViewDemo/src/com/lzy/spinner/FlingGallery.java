@@ -21,7 +21,7 @@ import android.widget.LinearLayout;
  
 public class FlingGallery extends FrameLayout
 {
-    // Constants
+    // Constantsasdf
      
     private final int swipe_min_distance = 120;
     private final int swipe_max_off_path = 250;
