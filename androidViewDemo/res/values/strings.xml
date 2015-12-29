@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">组件案例</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Spinner -->
+    <string-array name="spinnerData">
+       <item >hello world</item>  
+	    <item >yes i do!</item>  
+	    <item>it\'s easy!</item>  
+	    <item >I am javaer!</item>  
+	    <item>Only a littly</item>
+    </string-array>
+    <string name="imageDec">动画测试</string>
+</resources>
